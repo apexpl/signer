@@ -1,0 +1,29 @@
+{
+    "name": "apex/signer", 
+    "description": "Digital signatures and verification for your Composer packages.", 
+    "type": "package",
+    "homepage": "https://apexpl.io",
+    "authors": [
+        {
+            "name": "Matt Dizak", 
+            "email": "mdizak@apexpl.io"
+        }
+    ], 
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0.0", 
+        "ext-openssl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "bin": [
+        "signer"
+    ], 
+    "autoload": {
+        "psr-4": { 
+            "Apex\\Signer\\": "src/",
+            "Apex\\Signer\\Tests\\": "tests/"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "readme": "This file contains all digital signatures for this package created by Apex Signer (https:\/\/github.com\/apexpl\/signer\/), is automatically generated, and should not be manually modified.",
+    "crt": "-----BEGIN CERTIFICATE-----\nMIIGNzCCBB+gAwIBAgIBADANBgkqhkiG9w0BAQwFADCBsjELMAkGA1UEBhMCQ0Ex\nGTAXBgNVBAgMEEJyaXRpc2ggQ29sdW1iaWExEjAQBgNVBAcMCVZhbmNvdXZlcjEW\nMBQGA1UECgwNQXBleCBTb2Z0d2FyZTERMA8GA1UECwwIRGV2IFRlYW0xEDAOBgNV\nBAMMB2NhQGFwZXgxITAfBgkqhkiG9w0BCQEWEnNlY3VyaXR5QGFwZXhwbC5pbzEU\nMBIGA1UdDwwLa2V5Q2VydFNpZ24wHhcNMjEwNjI5MDczNjQ1WhcNMjEwNjI5MDcz\nNjQ1WjCBtTELMAkGA1UEBhMCQ0ExGTAXBgNVBAgMEEJyaXRpc2ggQ29sdW1iaWEx\nEjAQBgNVBAcMCVZhbmNvdXZlcjEWMBQGA1UECgwNQXBleCBTb2Z0d2FyZTERMA8G\nA1UECwwIRGV2IFRlYW0xEjAQBgNVBAMMCWFwZXhAYXBleDEdMBsGCSqGSIb3DQEJ\nARYObWF0dEBhcGV4cGwuaW8xGTAXBgNVHQ8MEERpZ2l0YWxTaWduYXR1cmUwggIi\nMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDC4muNYGl5RII\/79unzHiFacTG\na\/jBp2FedAHEROutCSyJobXPLZymmGyUBvEC6rShx9XWCKjkCGZgpBygV3ikSLhs\nZRyMVwyGcEnCrbs5fh8joyUIxFyrxTYL\/V1rd309u6Zjn9JukwilYXEdwsBx4YSE\nPy6F3knn41bgDRSE+xd+NlJl8yciyuzvOM2sRSiOdBOv2MfovJyn\/lq+dAr2580n\nHH4m2eB0QbnhE6f46yv5t8S7mIRznFkajJqnRYH4oFAvQBTUj8szvcEnU\/aFl42o\nbNCbYBuy2WE1caqdlrIzU+AQ+GOr8h2w47DuOyGtNRJVj11Ir6BaKrOnppWEf6zt\nL+FILGOMaeLhM+J+oyVWLtzHLbX+ErjQxztbXVZ4KNZfZUzfgzfr8\/vx\/qRSxY70\nBaqjiwdQ5fAHXdZCDnm\/Bq6hLa+oKusd13ngv\/TbazQ6McF4sftqOheuUvI5nyAm\n0h80GCy2Z6is7KIxEiMk1fukm7P\/tcdTdOTqvVjAGeghESl7UBt6Qvsk9IWl7Jdu\n6LnXEt4BaBo3MTuSTItxEUw\/y4fVSQ6PEGRcXXXMLX+d+qtWPMkwDUMkgNkI7MVY\nzbaqBUpJew\/iBsv9jvJWWrKUpcVACVrpdkZ4NeJXrtei4Ht5\/sioADzuiPoAG8TV\njeI7l5FfBFZdR4SwAQIDAQABo1MwUTAdBgNVHQ4EFgQURVIH\/Axg2K+YKk\/JSKtp\n\/+EDGa4wHwYDVR0jBBgwFoAUWk4H+o4xWShRIfrjBNjPmIxujAkwDwYDVR0TAQH\/\nBAUwAwEB\/zANBgkqhkiG9w0BAQwFAAOCAgEAZ4hCJbBxhqFr0KFRODgvmsC5pN1u\n80UE\/Go2QgxowVHexSwf7HRrqLmTmStKcxlJTxYHy2i3PYoJA\/62GoXz8pf8tK06\n0V7poPXrhfeU6pS1EWuHkSaoqcXqnTqeMw6n9TRuVsqkvmVhItHrXE6gEGnnax4U\n1mebQFCGswUN6xZhqTVj6I4f1ElisFKus+NXhjKOc87czMEQ04zkuUD55H6vly3j\nPtf8waLwBjjkYWMlf\/5BeIeiD4EMBZ9CyQRwyo4NCtpqHVVwhX13+5vZCehtNBxT\nitCrw2+S8XpXlWv1Gm2Tc6fW0OGYaXhQkzzwxSOn1SbNbSOPQP3E2HGH1ABZhlGK\nFhMLHWFMT63QzH0B9HgjaidaW+vO\/KcBcOnVAfa6PmiFeOvpnmyX3wD+1wJJ\/HGC\nTOS7Qyz5WYXxWYu9qxMG7Ee6gwcBgc8\/hlU0O7lP6saOLxm\/2ZLMVLZRQXxtMw0D\n7JLIM7GBa4zJJhJzFyytstHTTQZrO2ru5jY+WdzIibE2MWft5WQtBntaPnSdrabU\nGwZ0NxHbBh42FkF6hiFETM0BGKMf33jnm9mPnlPOyutI8swFa9w3MC8zbqz8WB2L\nr4GTdeAErDbWeXPqfENpGOkIgFYUTgDh461NAYQXldbUbGOgsQchuPhR3eOq1iRK\nvGMQ52aW0vhNef0=\n-----END CERTIFICATE-----\n\n\n",
+    "latest": "0.1",
+    "releases": {
+        "0.1": {
+            "timestamp": 1625138345,
+            "merkle_root": "3e6add63024b22a409a255a48340e5659a0d634a80d6b49579fc39299bc1551e",
+            "prev_merkle_root": "",
+            "signature": "6c8e262b4ff762efeea56c29d15b21291504663c20683c3593dea129e299a89e4fbc0e805d523ab6b5c1d17b4e3a246646f8ac2ba96771f44d1d29c84563d85e72a43c17ec43e472f229f46624e63779de76815aa2062c6887431ac7fab58444e6f2523a0fe846e6587aa6e4372e9e5c15136e8db2251870fcbeb7684b940f5e076614683537cb4ce8366b85df0c1efa522ddbf4e55b05bf46c2be6b88092b2a42896a386075fc974524c6046f91cb996b6fcda357aa8d80fc2ed8d2a1dc590c45424dc13c5b5f181915777b01b9facce722dc1267b53a27160ce5b525fabb55eeb566facc4f2636f5c6e6033fd29f7d1214bb1866da8b6af91c979636626c2253d120eb264c88aacd81fd54fd88a6e6c689b0e27611780c3db04b3bdd273972fde39e95e97b3360ae576f56ff64ee0b7ee6340a5c820338702f95fefe0005d3ad2c21f86a1b9324c83f8d8ce26d151701a8020a83fc5df25b978c56b4a1410f77cf644a247d656460f68a0e85016c0f68701b7d817ddae88660c3402dcfa5d117a3e56aae6b10a9fff2431fa4d8c35ad4cbbffeb9143dd1086a27ebb975cbe518723a75b3a190b111c84d1d77385921590793b9b3910f567a26c0441d527398addfc6d55445ee33e1d60769630675d8053e0e4a7fabbe09ce20425e488c0f4c297664ccb4ea451661ca4a5eda3095025e0cc95a270fb7c49599f24e1bb7efc2"
+        }
+    },
+    "inventory": {
+        "License.txt": "8ed904508e133df5b0abf709c53a044d48f67e18",
+        "Readme.md": "5cf71762fff90366096f813c0c4d0ab2a034f5f2",
+        "composer.json": "c230afdd30abd04ab149f7b77e9ee471bacf96fb",
+        "phpunit.xml": "dece1408463f9da3e757cd250503f4d429654cde",
+        "signer": "dff2e5c5fb8b3e2e7f10daf323ca976dca411f3c",
+        "src\/Cli\/Cli.php": "e33b5d0e101a368643647c544ef3ea0615835505",
+        "src\/Cli\/CliHelpScreen.php": "62078229456ace64ca2d11c7a0b9e740d60e726a",
+        "src\/Cli\/Commands\/Help.php": "7b1c330f6b61e85fa4c5fade371a85afa5fd73bd",
+        "src\/Cli\/Commands\/Init.php": "ebe50033595381afbb980f188fbc9a1c8f640544",
+        "src\/Cli\/Commands\/Release.php": "c3faf84fda9cc8edb3fe78f992db96abd8996bc4",
+        "src\/Cli\/Commands\/Sign.php": "6252cc29f71428e6400575571ff2394fe36c0b10",
+        "src\/Cli\/Commands\/Verify.php": "f70e03b2b7555cfdcaa82a631a45e4f8d4a2d735",
+        "src\/Cli\/Helpers\/AccountHelper.php": "3d8c9208358c2021014e5a8ee4b639c15c5f5ea0",
+        "src\/Cli\/Helpers\/CertificateHelper.php": "0a2d77e0f00aa1e105dd736bb36ef1e8675b7499",
+        "src\/Cli\/Helpers\/DistinguishedNamesHelper.php": "c444227972bca3efc625a6f83086b7bd0521069f",
+        "src\/Cli\/Helpers\/RegistrationHelper.php": "e2fb7ed6ed66c3cbb8b7cdc17463372762e7ff9e",
+        "src\/Cli\/Helpers\/RsaKeysHelper.php": "ce0f222d76df10b5c98c95712bd8c891909d3b9c",
+        "src\/Models\/Certificate.php": "6d1673611c64bfeb71d570a0bb9ea7423211fd65",
+        "src\/Models\/DistinguishedName.php": "41df817f7f086fa5357d4f8aa28305de8bf758c6",
+        "src\/Models\/MerkleTree.php": "69f68c4d949cdf48aa8970431cfd663b1a68b5d7",
+        "src\/Models\/RsaKey.php": "a5e1a2cb7c115d05d7b0849a9ec9fa31ebce7100",
+        "src\/Models\/VerificationResult.php": "12a3d8add73df24fd1d98d8428c2fc38f78c9651",
+        "src\/Signer.php": "622d3a382a941e479066ca1f81f1943601f16812",
+        "src\/Stores\/RsaKeyStore.php": "3c94e50b31e3df9a132bea04bee57af609fd7d2e",
+        "src\/Stores\/SigStore.php": "3af6011fb1a90a7b467be349bcaa63a1cf8edb7d",
+        "src\/Utils\/AbstractUtils.php": "573f8c8dd835c2c91bd5cc51de7b7c744e9212a2",
+        "src\/Utils\/HttpClient.php": "c35b6e5b25bb0fbe6017705f63b4bcfb6bc62b73",
+        "src\/Utils\/MerkleTreeBuilder.php": "30288328f00fd1068d8e9bbb5b13673c2b40ba2e",
+        "src\/Utils\/Signature.php": "cf10f3aa1f6d20d67350021251ca45207bcebd02",
+        "src\/Utils\/Verify.php": "661d0c47d4157e11359cdffacaf064b6c1429ffd",
+        "tests\/Stubs\/CliStub.php": "50b14dc7c57765ac846859abcfc76f1e4a910055",
+        "tests\/bootload.php": "a6aa0fb8c175498b2f4548bcfc04ae8fbf4b8d9b",
+        "tests\/offline_test.php": "76ee7043706b8083619ec8ceee9bbc20ac15b394"
+    }
+}

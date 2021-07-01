@@ -1,0 +1,40 @@
+#!/usr/bin/env php
+<?php
+declare(strict_types = 1);
+
+use Apex\Signer\Cli\Cli;
+
+// Get cwd
+$cwd = checkCwd();
+
+// Composer
+require_once("$cwd/vendor/autoload.php");
+
+// Run command
+$cli = new Cli();
+$cli->run();
+
+
+
+/**
+ * Check the CWD
+ *
+ * Get the current cwd, checks to ensure its a correct Apex installation.  Used 
+ * when the 'apex' phar archive is located within the environment path.
+ */
+function checkCwd()
+{
+
+    // Check
+    $dir = getcwd();
+
+    if (!file_exists("$dir/vendor/autoload.php")) { die("Composer packages have not yet been installed.  Please first install with:  composer update"); }
+
+    // Return
+    return $dir;
+
+}
+
+
+
+
