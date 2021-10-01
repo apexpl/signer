@@ -30,7 +30,7 @@ class HttpClient extends AbstractUtils
         $length = strlen($request);
 
         // Open socket
-        if (!$sock = fsockopen('api.apexpl.io', 80, $errno, $errstr, 5)) { 
+        if (!$sock = fsockopen('ssl://api.apexpl.io', 443, $errno, $errstr, 5)) { 
             throw new \Exception("Unable to connect to host, api.apexpl.io");
         }
 
