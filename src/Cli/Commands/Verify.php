@@ -69,7 +69,11 @@ class Verify
 
         // Display note, if  needed
         if ($show_skipped === false) { 
-            $cli->send("NOTE: Use the '--skipped' option to see a list of packages skipped, so you can contact the authors and request they add signatures to their releases.\r\n\r\n");
+            $cli->send("NOTE: Use the '--skipped' option to see a list of packages skipped, so you can contact the authors and request they add signatures to their releases.  Please tell any necessary authors to visit the URL:\r\n\r\n");
+            $cli->send("    https://apexpl.io/composer\r\n\r\n");
+        } else {
+            $cli->send("Help keep the PHP eco-system secure from outside code injection.  Contact the authors of the skipped packages above, and ask them to visit the URL:\r\n\r\n");
+            $cli->send("    https://apexpl.io/composer\r\n\r\n");
         }
 
         // Get summary

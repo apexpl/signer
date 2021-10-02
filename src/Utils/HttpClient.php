@@ -33,10 +33,11 @@ class HttpClient extends AbstractUtils
         if (!$sock = fsockopen('ssl://api.apexpl.io', 443, $errno, $errstr, 5)) { 
             throw new \Exception("Unable to connect to host, api.apexpl.io");
         }
+        $host = str_starts_with($path, 'ledger/') ? 'ledger.apexpl.io' : 'api.apexpl.io';
 
         // Send header
         fwrite($sock, "$method /api/$path HTTP/1.1\r\n");
-        fwrite($sock, "Host: api.apexpl.io\r\n");
+        fwrite($sock, "Host: $host\r\n");
         fwrite($sock, "User-Agent Apex Signer/1.0\r\n");
         fwrite($sock, "Connection: close\r\n");
 
